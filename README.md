@@ -36,7 +36,8 @@ En el archivo "input.in" se puede seleccionar el tipo de partícula, su energía
 - Energía: /gun/energy 1.0 GeV
 
 - Posición: /gun/position 1 0 z cm 
-La variable z puede ir desde -60 cm hasta 60 cm para estudiar la atenuación del sistema conforme la distancia entre el SiPM y la posición de impacto de la partícula aumenta. La barra está centrada en (0,0,0)
+
+La variable z puede ir desde -60 cm hasta 60 cm para estudiar la atenuación del sistema conforme la distancia entre el SiPM y la posición de impacto de la partícula aumenta. La barra está centrada en (0,0,0) cm.
 
 - Número de partículas a lanzar: /run/beamOn 10000
 
